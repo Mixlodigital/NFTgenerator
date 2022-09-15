@@ -1,0 +1,27 @@
+{
+    "project_name": "name of your project",
+
+    "amount": 9,
+
+    "profile_images": 5,
+
+    "description": "description of your collection",
+
+    "api_key": "",
+
+    "folders": [
+        "1 background",
+        "2 body",
+        "3 eyes"
+    ],
+
+    "ignore": [
+        ".DS_Store"
+    ],
+    
+    "rarity": {
+        "3 eyes/fear.png": 25.0,
+        "2 body/tiger.png": 25,
+        "1 background/red.png": 25.0
+    }
+}
